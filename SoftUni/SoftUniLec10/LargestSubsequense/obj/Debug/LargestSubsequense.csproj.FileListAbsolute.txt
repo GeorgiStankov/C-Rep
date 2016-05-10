@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\LargestSubsequense\bin\Debug\LargestSubsequense.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\LargestSubsequense\bin\Debug\LargestSubsequense.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\LargestSubsequense\bin\Debug\LargestSubsequense.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\LargestSubsequense\obj\Debug\LargestSubsequense.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\LargestSubsequense\obj\Debug\LargestSubsequense.pdb

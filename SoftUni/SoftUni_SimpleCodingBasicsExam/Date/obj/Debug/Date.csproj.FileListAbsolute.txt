@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Date\bin\Debug\Date.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Date\bin\Debug\Date.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Date\bin\Debug\Date.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Date\obj\Debug\Date.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Date\obj\Debug\Date.pdb

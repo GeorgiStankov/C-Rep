@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\bin\Debug\SquareMatrix.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\bin\Debug\SquareMatrix.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\bin\Debug\SquareMatrix.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\obj\Debug\SquareMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\obj\Debug\SquareMatrix.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SquareMatrix\obj\Debug\SquareMatrix.pdb

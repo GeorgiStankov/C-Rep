@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\bin\Debug\Fruit.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\bin\Debug\Fruit.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\bin\Debug\Fruit.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\obj\Debug\Fruit.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\obj\Debug\Fruit.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Fruit\obj\Debug\Fruit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberInRange\bin\Debug\NumberInRange.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberInRange\bin\Debug\NumberInRange.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberInRange\bin\Debug\NumberInRange.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberInRange\obj\Debug\NumberInRange.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberInRange\obj\Debug\NumberInRange.pdb

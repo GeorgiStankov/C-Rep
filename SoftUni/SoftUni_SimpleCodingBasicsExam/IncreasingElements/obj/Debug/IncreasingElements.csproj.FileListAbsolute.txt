@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\IncreasingElements\bin\Debug\IncreasingElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\IncreasingElements\bin\Debug\IncreasingElements.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\IncreasingElements\obj\Debug\IncreasingElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\IncreasingElements\obj\Debug\IncreasingElements.pdb

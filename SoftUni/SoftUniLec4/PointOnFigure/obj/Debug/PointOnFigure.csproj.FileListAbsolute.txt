@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\bin\Debug\PointOnFigure.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\bin\Debug\PointOnFigure.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\bin\Debug\PointOnFigure.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\obj\Debug\PointOnFigure.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\obj\Debug\PointOnFigure.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnFigure\obj\Debug\PointOnFigure.pdb

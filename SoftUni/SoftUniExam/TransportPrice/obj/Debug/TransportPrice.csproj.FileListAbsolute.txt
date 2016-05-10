@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\bin\Debug\TransportPrice.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\bin\Debug\TransportPrice.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\bin\Debug\TransportPrice.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\obj\Debug\TransportPrice.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\obj\Debug\TransportPrice.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache

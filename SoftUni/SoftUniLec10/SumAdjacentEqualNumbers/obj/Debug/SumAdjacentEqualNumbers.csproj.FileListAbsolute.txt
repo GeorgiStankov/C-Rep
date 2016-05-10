@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

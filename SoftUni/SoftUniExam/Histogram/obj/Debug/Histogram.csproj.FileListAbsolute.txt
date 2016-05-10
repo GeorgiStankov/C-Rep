@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\Histogram\bin\Debug\Histogram.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\Histogram\bin\Debug\Histogram.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\Histogram\bin\Debug\Histogram.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\Histogram\obj\Debug\Histogram.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\Histogram\obj\Debug\Histogram.pdb

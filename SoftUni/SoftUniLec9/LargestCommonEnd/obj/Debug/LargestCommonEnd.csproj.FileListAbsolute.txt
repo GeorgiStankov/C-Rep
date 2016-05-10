@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\bin\Debug\LargestCommonEnd.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\obj\Debug\LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\obj\Debug\LargestCommonEnd.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LargestCommonEnd\obj\Debug\LargestCommonEnd.pdb

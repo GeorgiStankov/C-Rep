@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\bin\Debug\Diamant.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\bin\Debug\Diamant.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\bin\Debug\Diamant.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\obj\Debug\Diamant.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\obj\Debug\Diamant.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Diamant\obj\Debug\Diamant.pdb

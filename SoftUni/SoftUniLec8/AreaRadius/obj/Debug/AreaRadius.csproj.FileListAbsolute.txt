@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec8\AreaRadius\bin\Debug\AreaRadius.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec8\AreaRadius\bin\Debug\AreaRadius.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec8\AreaRadius\bin\Debug\AreaRadius.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec8\AreaRadius\obj\Debug\AreaRadius.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec8\AreaRadius\obj\Debug\AreaRadius.pdb

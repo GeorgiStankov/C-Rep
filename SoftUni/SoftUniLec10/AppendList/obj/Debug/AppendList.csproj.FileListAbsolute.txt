@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\AppendList\bin\Debug\AppendList.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\AppendList\bin\Debug\AppendList.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\AppendList\bin\Debug\AppendList.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\AppendList\obj\Debug\AppendList.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\AppendList\obj\Debug\AppendList.pdb

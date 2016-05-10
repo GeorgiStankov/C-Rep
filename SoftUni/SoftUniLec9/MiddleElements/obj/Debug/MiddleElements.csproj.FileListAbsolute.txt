@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\bin\Debug\MiddleElements.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\bin\Debug\MiddleElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\bin\Debug\MiddleElements.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\obj\Debug\MiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\obj\Debug\MiddleElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\MiddleElements\obj\Debug\MiddleElements.pdb

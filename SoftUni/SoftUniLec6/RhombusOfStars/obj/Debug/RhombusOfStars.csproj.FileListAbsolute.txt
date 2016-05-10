@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

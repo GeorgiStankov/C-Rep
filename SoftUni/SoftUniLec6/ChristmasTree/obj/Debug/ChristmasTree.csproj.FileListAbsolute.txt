@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\ChristmasTree\obj\Debug\ChristmasTree.pdb

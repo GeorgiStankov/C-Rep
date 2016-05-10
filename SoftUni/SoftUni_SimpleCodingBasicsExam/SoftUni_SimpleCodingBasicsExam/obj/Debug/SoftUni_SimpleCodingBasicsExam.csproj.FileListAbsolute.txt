@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\bin\Debug\SoftUni_SimpleCodingBasicsExam.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\bin\Debug\SoftUni_SimpleCodingBasicsExam.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\bin\Debug\SoftUni_SimpleCodingBasicsExam.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\obj\Debug\SoftUni_SimpleCodingBasicsExam.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\obj\Debug\SoftUni_SimpleCodingBasicsExam.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\SoftUni_SimpleCodingBasicsExam\obj\Debug\SoftUni_SimpleCodingBasicsExam.pdb

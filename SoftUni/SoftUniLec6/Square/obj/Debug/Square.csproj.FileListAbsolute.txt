@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Square\bin\Debug\Square.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Square\bin\Debug\Square.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Square\bin\Debug\Square.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Square\obj\Debug\Square.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\Square\obj\Debug\Square.pdb

@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\OnTimefortheExam\bin\Debug\OnTimefortheExam.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\OnTimefortheExam\bin\Debug\OnTimefortheExam.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\OnTimefortheExam\bin\Debug\OnTimefortheExam.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\OnTimefortheExam\obj\Debug\OnTimefortheExam.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\OnTimefortheExam\obj\Debug\OnTimefortheExam.pdb

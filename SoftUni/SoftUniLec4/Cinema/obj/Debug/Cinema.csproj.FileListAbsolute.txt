@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Cinema\bin\Debug\Cinema.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Cinema\obj\Debug\Cinema.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Cinema\obj\Debug\Cinema.pdb

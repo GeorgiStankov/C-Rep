@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\bin\Debug\asd.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\bin\Debug\asd.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\bin\Debug\asd.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\obj\Debug\asd.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec6\asd\obj\Debug\asd.pdb

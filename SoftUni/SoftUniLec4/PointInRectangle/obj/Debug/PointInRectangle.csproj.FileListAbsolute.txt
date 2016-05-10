@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointInRectangle\bin\Debug\PointInRectangle.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointInRectangle\bin\Debug\PointInRectangle.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointInRectangle\obj\Debug\PointInRectangle.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointInRectangle\obj\Debug\PointInRectangle.pdb

@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\bin\Debug\4zadacha.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\bin\Debug\4zadacha.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\bin\Debug\4zadacha.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\obj\Debug\4zadacha.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\4zadacha\obj\Debug\4zadacha.pdb

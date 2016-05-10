@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberPyramid\obj\Debug\NumberPyramid.pdb

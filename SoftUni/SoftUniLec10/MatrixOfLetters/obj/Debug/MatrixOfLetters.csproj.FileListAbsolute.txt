@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\bin\Debug\MatrixOfLetters.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\obj\Debug\MatrixOfLetters.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\obj\Debug\MatrixOfLetters.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfLetters\obj\Debug\MatrixOfLetters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\bin\Debug\TripleSum.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\bin\Debug\TripleSum.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\bin\Debug\TripleSum.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\obj\Debug\TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\obj\Debug\TripleSum.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\TripleSum\obj\Debug\TripleSum.pdb

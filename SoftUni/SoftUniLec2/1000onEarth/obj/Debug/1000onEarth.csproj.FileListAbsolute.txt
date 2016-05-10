@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\bin\Debug\1000onEarth.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\bin\Debug\1000onEarth.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\bin\Debug\1000onEarth.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\obj\Debug\1000onEarth.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\obj\Debug\1000onEarth.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec2\1000onEarth\obj\Debug\1000onEarth.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam\StupidGenerator\bin\Debug\StupidGenerator.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam\StupidGenerator\bin\Debug\StupidGenerator.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam\StupidGenerator\bin\Debug\StupidGenerator.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam\StupidGenerator\obj\Debug\StupidGenerator.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam\StupidGenerator\obj\Debug\StupidGenerator.pdb

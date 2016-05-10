@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\bin\Debug\Volleyball.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\bin\Debug\Volleyball.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\bin\Debug\Volleyball.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\obj\Debug\Volleyball.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Volleyball\obj\Debug\Volleyball.pdb

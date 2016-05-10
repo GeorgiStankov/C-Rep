@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniExam24\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.pdb

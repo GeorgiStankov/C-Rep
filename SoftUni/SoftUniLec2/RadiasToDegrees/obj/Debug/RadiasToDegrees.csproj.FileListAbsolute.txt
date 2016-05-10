@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\RadiasToDegrees\bin\Debug\RadiasToDegrees.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\RadiasToDegrees\bin\Debug\RadiasToDegrees.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\RadiasToDegrees\bin\Debug\RadiasToDegrees.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\RadiasToDegrees\obj\Debug\RadiasToDegrees.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\RadiasToDegrees\obj\Debug\RadiasToDegrees.pdb

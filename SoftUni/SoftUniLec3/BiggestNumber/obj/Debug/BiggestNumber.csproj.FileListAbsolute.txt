@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\BiggestNumber\bin\Debug\BiggestNumber.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\BiggestNumber\bin\Debug\BiggestNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\BiggestNumber\bin\Debug\BiggestNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\BiggestNumber\obj\Debug\BiggestNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\BiggestNumber\obj\Debug\BiggestNumber.pdb

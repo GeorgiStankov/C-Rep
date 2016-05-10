@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\PointOnRectangle\bin\Debug\PointOnRectangle.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\PointOnRectangle\bin\Debug\PointOnRectangle.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\PointOnRectangle\bin\Debug\PointOnRectangle.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\PointOnRectangle\obj\Debug\PointOnRectangle.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\PointOnRectangle\obj\Debug\PointOnRectangle.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\PointOnRectangle\obj\Debug\PointOnRectangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Speed\bin\Debug\Speed.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Speed\bin\Debug\Speed.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Speed\bin\Debug\Speed.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Speed\obj\Debug\Speed.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Speed\obj\Debug\Speed.pdb

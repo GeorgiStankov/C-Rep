@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\obj\Debug\MaxSequenceOfEqualNumbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\obj\Debug\MaxSequenceOfEqualNumbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MaxSequenceOfEqualNumbers\obj\Debug\MaxSequenceOfEqualNumbers.csprojResolveAssemblyReference.cache

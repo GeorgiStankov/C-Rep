@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\ReversingString\bin\Debug\ReversingString.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\ReversingString\bin\Debug\ReversingString.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\ReversingString\bin\Debug\ReversingString.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\ReversingString\obj\Debug\ReversingString.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\ReversingString\obj\Debug\ReversingString.pdb

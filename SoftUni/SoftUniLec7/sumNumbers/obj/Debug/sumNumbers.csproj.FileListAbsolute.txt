@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\bin\Debug\sumNumbers.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\bin\Debug\sumNumbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\bin\Debug\sumNumbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\obj\Debug\sumNumbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\obj\Debug\sumNumbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\sumNumbers\obj\Debug\sumNumbers.csprojResolveAssemblyReference.cache

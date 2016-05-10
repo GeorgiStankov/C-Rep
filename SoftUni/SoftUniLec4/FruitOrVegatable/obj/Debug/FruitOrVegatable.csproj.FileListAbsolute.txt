@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\bin\Debug\FruitOrVegatable.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\bin\Debug\FruitOrVegatable.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\bin\Debug\FruitOrVegatable.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\obj\Debug\FruitOrVegatable.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\obj\Debug\FruitOrVegatable.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec4\FruitOrVegatable\obj\Debug\FruitOrVegatable.csprojResolveAssemblyReference.cache

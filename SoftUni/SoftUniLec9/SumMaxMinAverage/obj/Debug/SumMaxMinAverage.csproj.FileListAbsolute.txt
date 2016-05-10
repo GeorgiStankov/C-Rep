@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\bin\Debug\SumMaxMinAverage.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\bin\Debug\SumMaxMinAverage.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\bin\Debug\SumMaxMinAverage.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\obj\Debug\SumMaxMinAverage.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\obj\Debug\SumMaxMinAverage.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumMaxMinAverage\obj\Debug\SumMaxMinAverage.pdb

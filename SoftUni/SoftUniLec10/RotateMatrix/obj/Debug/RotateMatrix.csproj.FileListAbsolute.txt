@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\bin\Debug\RotateMatrix.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\bin\Debug\RotateMatrix.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\obj\Debug\RotateMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\obj\Debug\RotateMatrix.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\RotateMatrix\obj\Debug\RotateMatrix.pdb

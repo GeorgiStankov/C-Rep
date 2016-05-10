@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\PerferctDiamond\bin\Debug\PerferctDiamond.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\PerferctDiamond\bin\Debug\PerferctDiamond.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\PerferctDiamond\bin\Debug\PerferctDiamond.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\PerferctDiamond\obj\Debug\PerferctDiamond.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\PerferctDiamond\obj\Debug\PerferctDiamond.pdb

@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Concatanate\bin\Debug\Concatanate.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Concatanate\bin\Debug\Concatanate.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Concatanate\bin\Debug\Concatanate.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Concatanate\obj\Debug\Concatanate.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Concatanate\obj\Debug\Concatanate.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\bin\Debug\Comisions.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\bin\Debug\Comisions.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\bin\Debug\Comisions.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\obj\Debug\Comisions.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\obj\Debug\Comisions.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\Comisions\obj\Debug\Comisions.csprojResolveAssemblyReference.cache

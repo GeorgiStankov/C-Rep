@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\bin\Debug\SumVowels.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\bin\Debug\SumVowels.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\bin\Debug\SumVowels.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\obj\Debug\SumVowels.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\obj\Debug\SumVowels.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\SumVowels\obj\Debug\SumVowels.pdb

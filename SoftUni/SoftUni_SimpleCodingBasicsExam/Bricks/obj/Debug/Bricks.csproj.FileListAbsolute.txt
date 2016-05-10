@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Bricks\bin\Debug\Bricks.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Bricks\bin\Debug\Bricks.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Bricks\bin\Debug\Bricks.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Bricks\obj\Debug\Bricks.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Bricks\obj\Debug\Bricks.pdb

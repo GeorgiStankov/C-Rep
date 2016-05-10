@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\obj\Debug\NumberTable.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\NumberTable\obj\Debug\NumberTable.pdb

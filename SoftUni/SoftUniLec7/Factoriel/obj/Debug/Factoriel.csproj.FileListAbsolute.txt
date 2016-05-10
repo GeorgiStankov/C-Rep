@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\bin\Debug\Factoriel.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\bin\Debug\Factoriel.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\bin\Debug\Factoriel.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\obj\Debug\Factoriel.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\Factoriel\obj\Debug\Factoriel.pdb

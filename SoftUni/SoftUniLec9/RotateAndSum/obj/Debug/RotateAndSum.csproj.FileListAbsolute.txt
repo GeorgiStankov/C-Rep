@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\bin\Debug\RotateAndSum.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\bin\Debug\RotateAndSum.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\obj\Debug\RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\obj\Debug\RotateAndSum.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\RotateAndSum\obj\Debug\RotateAndSum.pdb

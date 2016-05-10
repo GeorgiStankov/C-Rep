@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\bin\Debug\SortNumbers.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\bin\Debug\SortNumbers.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\bin\Debug\SortNumbers.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\obj\Debug\SortNumbers.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\obj\Debug\SortNumbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache

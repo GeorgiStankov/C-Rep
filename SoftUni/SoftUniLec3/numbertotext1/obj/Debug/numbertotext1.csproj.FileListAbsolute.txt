@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\numbertotext1\bin\Debug\numbertotext1.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\numbertotext1\bin\Debug\numbertotext1.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\numbertotext1\bin\Debug\numbertotext1.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\numbertotext1\obj\Debug\numbertotext1.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\numbertotext1\obj\Debug\numbertotext1.pdb

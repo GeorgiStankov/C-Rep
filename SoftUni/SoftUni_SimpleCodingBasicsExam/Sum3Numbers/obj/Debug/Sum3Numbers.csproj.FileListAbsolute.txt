@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\bin\Debug\Sum3Numbers.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\bin\Debug\Sum3Numbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\bin\Debug\Sum3Numbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\obj\Debug\Sum3Numbers.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\obj\Debug\Sum3Numbers.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\Sum3Numbers\obj\Debug\Sum3Numbers.csprojResolveAssemblyReference.cache

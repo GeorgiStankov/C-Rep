@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\bin\Debug\PowerOfTwo.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\bin\Debug\PowerOfTwo.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\bin\Debug\PowerOfTwo.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\obj\Debug\PowerOfTwo.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\obj\Debug\PowerOfTwo.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\PowerOfTwo\obj\Debug\PowerOfTwo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\bin\Debug\PersonalTitle.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\bin\Debug\PersonalTitle.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\bin\Debug\PersonalTitle.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\obj\Debug\PersonalTitle.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\obj\Debug\PersonalTitle.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\PersonalTitle\obj\Debug\PersonalTitle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\bin\Debug\Figures.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\bin\Debug\Figures.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\bin\Debug\Figures.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\obj\Debug\Figures.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\Figures\obj\Debug\Figures.pdb

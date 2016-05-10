@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\bin\Debug\15min+.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\bin\Debug\15min+.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\bin\Debug\15min+.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\obj\Debug\15min+.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\obj\Debug\15min+.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\15min+\obj\Debug\15min+.csprojResolveAssemblyReference.cache

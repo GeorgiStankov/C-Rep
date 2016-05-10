@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfPalidromes\bin\Debug\MatrixOfPalidromes.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfPalidromes\bin\Debug\MatrixOfPalidromes.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfPalidromes\bin\Debug\MatrixOfPalidromes.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfPalidromes\obj\Debug\MatrixOfPalidromes.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec10\MatrixOfPalidromes\obj\Debug\MatrixOfPalidromes.pdb

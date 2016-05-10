@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\bin\Debug\oddEvenPosition.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\bin\Debug\oddEvenPosition.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\bin\Debug\oddEvenPosition.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\obj\Debug\oddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\obj\Debug\oddEvenPosition.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\oddEvenPosition\obj\Debug\oddEvenPosition.pdb

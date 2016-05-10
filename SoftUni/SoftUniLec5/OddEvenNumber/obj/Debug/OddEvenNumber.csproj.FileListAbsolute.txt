@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\bin\Debug\OddEvenNumber.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\bin\Debug\OddEvenNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\bin\Debug\OddEvenNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\obj\Debug\OddEvenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\obj\Debug\OddEvenNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\OddEvenNumber\obj\Debug\OddEvenNumber.pdb

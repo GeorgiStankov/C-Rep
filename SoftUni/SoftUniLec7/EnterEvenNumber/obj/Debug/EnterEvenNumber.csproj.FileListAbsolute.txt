@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec7\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\bin\Debug\NumberToText.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\bin\Debug\NumberToText.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\bin\Debug\NumberToText.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\obj\Debug\NumberToText.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\obj\Debug\NumberToText.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\NumberToText\obj\Debug\NumberToText.pdb

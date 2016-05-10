@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\CondeseNumber\bin\Debug\CondeseNumber.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\CondeseNumber\bin\Debug\CondeseNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\CondeseNumber\bin\Debug\CondeseNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\CondeseNumber\obj\Debug\CondeseNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\CondeseNumber\obj\Debug\CondeseNumber.pdb

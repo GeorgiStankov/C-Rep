@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\bin\Debug\MetricConvertor.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\bin\Debug\MetricConvertor.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\bin\Debug\MetricConvertor.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\obj\Debug\MetricConvertor.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\obj\Debug\MetricConvertor.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\MetricConvertor\obj\Debug\MetricConvertor.pdb

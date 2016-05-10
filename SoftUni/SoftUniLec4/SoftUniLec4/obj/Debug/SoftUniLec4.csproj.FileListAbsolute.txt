@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\SoftUniLec4\bin\Debug\SoftUniLec4.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\SoftUniLec4\bin\Debug\SoftUniLec4.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\SoftUniLec4\bin\Debug\SoftUniLec4.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\SoftUniLec4\obj\Debug\SoftUniLec4.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec4\SoftUniLec4\obj\Debug\SoftUniLec4.pdb

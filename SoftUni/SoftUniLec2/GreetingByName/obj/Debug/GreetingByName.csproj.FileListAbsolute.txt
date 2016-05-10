@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\GreetingByName\bin\Debug\GreetingByName.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\GreetingByName\bin\Debug\GreetingByName.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\GreetingByName\bin\Debug\GreetingByName.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\GreetingByName\obj\Debug\GreetingByName.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\GreetingByName\obj\Debug\GreetingByName.pdb

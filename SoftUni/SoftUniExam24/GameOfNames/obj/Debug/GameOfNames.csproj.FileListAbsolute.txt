@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\GameOfNames\bin\Debug\GameOfNames.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\GameOfNames\bin\Debug\GameOfNames.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\GameOfNames\bin\Debug\GameOfNames.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\GameOfNames\obj\Debug\GameOfNames.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam24\GameOfNames\obj\Debug\GameOfNames.pdb

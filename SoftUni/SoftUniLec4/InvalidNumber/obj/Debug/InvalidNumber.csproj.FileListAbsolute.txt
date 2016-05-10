@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\bin\Debug\InvalidNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\bin\Debug\InvalidNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\obj\Debug\InvalidNumber.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\obj\Debug\InvalidNumber.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec4\InvalidNumber\obj\Debug\InvalidNumber.pdb

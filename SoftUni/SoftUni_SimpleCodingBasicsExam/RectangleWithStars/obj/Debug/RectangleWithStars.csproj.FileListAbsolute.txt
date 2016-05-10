@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\bin\Debug\RectangleWithStars.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\bin\Debug\RectangleWithStars.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\obj\Debug\RectangleWithStars.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUni_SimpleCodingBasicsExam\RectangleWithStars\obj\Debug\RectangleWithStars.pdb

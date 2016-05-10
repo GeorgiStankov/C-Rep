@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec2\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache

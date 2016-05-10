@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\bin\Debug\LastKNumbersSums.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\bin\Debug\LastKNumbersSums.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\bin\Debug\LastKNumbersSums.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\obj\Debug\LastKNumbersSums.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\obj\Debug\LastKNumbersSums.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\LastKNumbersSums\obj\Debug\LastKNumbersSums.csprojResolveAssemblyReference.cache

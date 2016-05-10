@@ -1,0 +1,8 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\bin\Debug\Convertor.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\bin\Debug\Convertor.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\obj\Debug\Convertor.csproj.GenerateResource.Cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\obj\Debug\Convertor.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\SoftUniLec2\Convertor\obj\Debug\Convertor.pdb

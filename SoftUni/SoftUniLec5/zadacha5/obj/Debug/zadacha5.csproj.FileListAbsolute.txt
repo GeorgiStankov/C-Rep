@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\bin\Debug\zadacha5.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\bin\Debug\zadacha5.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\bin\Debug\zadacha5.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\obj\Debug\zadacha5.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\obj\Debug\zadacha5.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec5\zadacha5\obj\Debug\zadacha5.csprojResolveAssemblyReference.cache

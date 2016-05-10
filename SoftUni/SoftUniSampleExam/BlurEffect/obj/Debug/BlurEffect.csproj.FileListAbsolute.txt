@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\bin\Debug\BlurEffect.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\bin\Debug\BlurEffect.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\bin\Debug\BlurEffect.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\obj\Debug\BlurEffect.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\obj\Debug\BlurEffect.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniSampleExam\BlurEffect\obj\Debug\BlurEffect.pdb

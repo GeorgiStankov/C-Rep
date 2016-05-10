@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\bin\Debug\DrawFort.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\bin\Debug\DrawFort.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\bin\Debug\DrawFort.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\obj\Debug\DrawFort.exe
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\obj\Debug\DrawFort.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\SoftUniExam\DrawFort\obj\Debug\DrawFort.csprojResolveAssemblyReference.cache

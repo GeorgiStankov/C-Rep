@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache

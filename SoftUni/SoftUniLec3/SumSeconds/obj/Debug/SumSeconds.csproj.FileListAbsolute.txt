@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\SumSeconds\bin\Debug\SumSeconds.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\SumSeconds\bin\Debug\SumSeconds.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\SumSeconds\bin\Debug\SumSeconds.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\SumSeconds\obj\Debug\SumSeconds.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\SoftUniLec3\SumSeconds\obj\Debug\SumSeconds.pdb

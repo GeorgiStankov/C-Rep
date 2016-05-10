@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumElements\bin\Debug\SumElements.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumElements\bin\Debug\SumElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumElements\bin\Debug\SumElements.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumElements\obj\Debug\SumElements.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\DayOfWeek\SumElements\obj\Debug\SumElements.pdb
